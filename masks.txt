@@ -1,0 +1,8 @@
+barefoot,high heel,thighhigh,kneehighs,socks,pantyhose,prosthesis,boots,legwear,high heels,thighhighs,!toeless legwear,!mismatched_legwear,!asymmetrical legwear,black legwear,
+barefeet,high heel,thighhigh,kneehighs,socks,pantyhose,prosthesis,boots,legwear,high heels,thighhighs,!toeless legwear,!mismatched_legwear,!asymmetrical legwear,black legwear,
+bare feet,high heel,thighhigh,kneehighs,socks,pantyhose,prosthesis,boots,legwear,high heels,thighhighs,!toeless legwear,!mismatched_legwear,!asymmetrical legwear,black legwear,
+bare foot,high heel,thighhigh,kneehighs,socks,pantyhose,prosthesis,boots,legwear,high heels,thighhighs,!toeless legwear,!mismatched_legwear,!asymmetrical legwear,black legwear,
+bare leg,high heel,thighhigh,kneehighs,socks,pantyhose,prosthesis,boots,legwear,high heels,thighhighs,!toeless legwear,!mismatched_legwear,!asymmetrical legwear,black legwear,
+bareleg,high heel,thighhigh,kneehighs,socks,pantyhose,prosthesis,boots,legwear,high heels,thighhighs,!toeless legwear,!mismatched_legwear,!asymmetrical legwear,black legwear,
+barelegs,high heel,thighhigh,kneehighs,socks,pantyhose,prosthesis,boots,legwear,high heels,thighhighs,!toeless legwear,!mismatched_legwear,!asymmetrical legwear,black legwear,
+bare_legs,high heel,thighhigh,kneehighs,socks,pantyhose,prosthesis,boots,legwear,high heels,thighhighs,!toeless legwear,!mismatched_legwear,!asymmetrical legwear,black legwear,
