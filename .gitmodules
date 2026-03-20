@@ -7,3 +7,6 @@
 [submodule "角色"]
 	path = 角色
 	url = https://github.com/WeissGoat/character
+[submodule "背景"]
+	path = 背景
+	url = https://github.com/WeissGoat/tags_machine_node_background.git
