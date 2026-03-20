@@ -1,9 +1,9 @@
-[submodule "character"]
-	path = character
-	url = https://github.com/WeissGoat/character.git
 [submodule "动作改2"]
 	path = 动作改2
 	url = https://github.com/WeissGoat/tags_machine_node_story.git
 [submodule "画风"]
 	path = 画风
 	url = https://github.com/WeissGoat/tags_machine_node_artist.git
+[submodule "角色"]
+	path = 角色
+	url = https://github.com/WeissGoat/character
