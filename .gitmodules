@@ -10,3 +10,6 @@
 [submodule "背景"]
 	path = 背景
 	url = https://github.com/WeissGoat/tags_machine_node_background.git
+[submodule "vibe"]
+	path = vibe
+	url = https://github.com/WeissGoat/tags_machine_node_vibe.git
