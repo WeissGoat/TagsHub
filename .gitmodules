@@ -13,3 +13,4 @@
 [submodule "vibe"]
 	path = vibe
 	url = https://github.com/WeissGoat/tags_machine_node_vibe.git
+	branch = main
