@@ -4,6 +4,7 @@
 [submodule "画风"]
 	path = 画风
 	url = https://github.com/WeissGoat/tags_machine_node_artist.git
+	branch = main
 [submodule "角色"]
 	path = 角色
 	url = https://github.com/WeissGoat/character
