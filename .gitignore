@@ -2,3 +2,7 @@
 *.png
 *.jpg
 auto
+
+# 服装节点库由 refactor Web 启动时本地生成（tools/extract_action_clothes.py），只在
+# 本机存在，不跨机器同步，因此不入库。
+服装
